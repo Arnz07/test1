@@ -1,0 +1,31 @@
+
+h1{ color: red;}
+
+.a{ color: red;
+
+    display: block;
+    width: 200px; height: 40px;
+
+    border: solid;
+    border-color: black;
+  }
+
+.b{ color: blue;
+    
+    display: incine;
+    width: 200px;  height: 40px;
+    padding: 20x; margin: 20px;
+
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+  }
+
+.c{ color: light purple;
+
+    display: incline-block;
+    width: 200px;  height: 40px;
+
+    border: solid;
+    border-color: black;  
+  }
